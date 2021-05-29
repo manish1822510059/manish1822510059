@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies .
-- 🌱 I’m currently learning ** Data Science 🤩**
+- 🌱 I’m currently learning ** Data Structure and algorithm 🤩**
 - 🎓 &nbsp; Studying Computer Science and Engineering at A.K.T.U University.
 - 🌱 &nbsp; Learning more about Python with Data science,Artificial Intelligence.
 - ✍️ &nbsp; Blog Writing as hobbies/side hustles.
