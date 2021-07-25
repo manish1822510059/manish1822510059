@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | C++ | MATLAB
+- 💻 &nbsp; Python | C | C++ | Java
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git 
